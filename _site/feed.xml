@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-17T11:28:40-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Eduardo Carrillo</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Primer publicación</title><link href="http://localhost:4000/2023/09/16/primer-publicaci%C3%B3n.html" rel="alternate" type="text/html" title="Primer publicación" /><published>2023-09-16T00:00:00-07:00</published><updated>2023-09-16T00:00:00-07:00</updated><id>http://localhost:4000/2023/09/16/primer%20publicaci%C3%B3n</id><content type="html" xml:base="http://localhost:4000/2023/09/16/primer-publicaci%C3%B3n.html"><![CDATA[<h1 id="primera-publicación-con-jekyll">Primera publicación con Jekyll</h1>
+<p>De buenas a primeras empecé a revisar la alternativa de tener un sitio a partir de archivos de texto. Esto ha ido adquiriendo relevancia por el uso primario que hago de Obsidian.</p>
+
+<p>Ya he visto a otros autores y programadores hacer uso de un esquema de archivos de texto para publicar contenido en sus sitios o blogs.</p>
+
+<p>He tomado algunas reservas por el aspecto técnico involucrado. Aún cuando un servicio facilite el proceso de preparación y publicación, aún hay varios pasos técnicos que hay que ejecutar.</p>
+
+<p>Sabía que si me aplicaba en ello lo pudiera lograr, pero en el pasado he tenido flojera - eso evidentemente se acabó hoy.</p>
+
+<p>Aquí estoy haciendo mi primera publicación a partir de un archivo de texto con la ayuda de Github y Jekyll.</p>
+
+<p>¡Toma eso flojera existencial!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Primera publicación con Jekyll De buenas a primeras empecé a revisar la alternativa de tener un sitio a partir de archivos de texto. Esto ha ido adquiriendo relevancia por el uso primario que hago de Obsidian.]]></summary></entry></feed>
